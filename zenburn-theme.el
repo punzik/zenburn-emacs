@@ -40,7 +40,7 @@
     ("zenburn-fg"       . "#DCDCCC")
     ("zenburn-fg-1"     . "#656555")
     ("zenburn-bg-2"     . "#000000")
-    ("zenburn-bg-1"     . "#2B2B2B")
+    ("zenburn-bg-1"     . "#262626")
     ("zenburn-bg-05"    . "#383838")
     ("zenburn-bg"       . "#2E2E2E")
     ("zenburn-bg+05"    . "#494949")
